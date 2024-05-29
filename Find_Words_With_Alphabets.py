@@ -1,6 +1,6 @@
 def find_words_with_all_given_alphabets(words):
     # Define the set of alphabets that we need to check in each word
-    alphabets = set("aeiou")
+    alphabets = set("aeiou")     // Change alphabets which you want to check 
     
     # Initialize an empty list to store words that contain all the alphabets
     all_alphabets_words = []
