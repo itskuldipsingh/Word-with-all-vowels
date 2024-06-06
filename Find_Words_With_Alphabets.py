@@ -18,7 +18,7 @@ def find_words_with_all_given_alphabets(file_path):
     return all_alphabets_words
 
 # File path to the words file (relative path assuming the file is in the same directory)
-file_path = 'words.txt'
+file_path = 'WordsDictionary.txt'
 
 # Find words with all given alphabets
 words_with_all_alphabets = find_words_with_all_given_alphabets(file_path)
